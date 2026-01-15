@@ -21,6 +21,7 @@ BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  clang-libs
 BuildRequires:  clang
 BuildRequires:  clang-devel
+BuildRequires:  pkgconfig(cairo)
 
 
 Requires:       xdg-desktop-portal
