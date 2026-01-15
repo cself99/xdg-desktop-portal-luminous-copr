@@ -1,5 +1,5 @@
 Name:           xdg-desktop-portal-luminous
-Version:        0.1.11
+Version:        0.1.13
 Release:        1%{?dist}
 Summary:        A wlroots-based xdg-desktop-portal implementation
 
