@@ -18,6 +18,7 @@ BuildRequires:  pkgconfig(libdrm)
 BuildRequires:  systemd-rpm-macros
 BuildRequires:  pkgconfig(egl)
 BuildRequires:  pkgconfig(glib-2.0)
+BuildRequires:  clang-libs
 
 
 Requires:       xdg-desktop-portal
