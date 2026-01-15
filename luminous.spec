@@ -16,7 +16,8 @@ BuildRequires:  pkgconfig(libpipewire-0.3)
 BuildRequires:  pkgconfig(gbm)
 BuildRequires:  pkgconfig(libdrm)
 BuildRequires:  systemd-rpm-macros
-BuildRequires:  egl-devel
+BuildRequires:  egl-wayland
+BuildRequires:  egl-wayland-devel
 
 Requires:       xdg-desktop-portal
 Requires:       pipewire
