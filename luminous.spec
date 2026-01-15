@@ -19,6 +19,8 @@ BuildRequires:  systemd-rpm-macros
 BuildRequires:  pkgconfig(egl)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  clang-libs
+BuildRequires:  clang
+BuildRequires:  clang-devel
 
 
 Requires:       xdg-desktop-portal
