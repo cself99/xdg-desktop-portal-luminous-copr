@@ -23,6 +23,7 @@ BuildRequires:  clang
 BuildRequires:  clang-devel
 BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(pango)
+BuildRequires:  pkgconfig(cairo-gobject)
 
 
 Requires:       xdg-desktop-portal
