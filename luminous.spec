@@ -24,6 +24,8 @@ BuildRequires:  clang-devel
 BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(pango)
 BuildRequires:  pkgconfig(cairo-gobject)
+BuildRequires:  libxkbcommon
+BuildRequires:  libxkbcommon-devel
 
 
 Requires:       xdg-desktop-portal
